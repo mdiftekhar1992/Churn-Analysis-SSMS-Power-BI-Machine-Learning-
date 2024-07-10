@@ -161,3 +161,6 @@ Credits: YouTube Pivotalstats #SajitSimon
 
 <img width="602" alt="Churn Analysis 2" src="https://github.com/mdiftekhar1992/Churn-Analysis-SSMS-Power-BI-Machine-Learning-/assets/150526044/d6855c32-90a6-4690-85b4-7965d4f8fed2">
 
+![Predicted Churn Analysis](https://github.com/mdiftekhar1992/Churn-Analysis-SSMS-Power-BI-Machine-Learning-/assets/150526044/d787817b-9881-4ac1-9c1a-97e71f5a2952)
+
+
