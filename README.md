@@ -1,5 +1,7 @@
 **Excited to share Churn Analysis Project using SQL Server, Power BI, and Machine Learning.**
 
+This project demonstrates a complete workflow from data extraction, transformation, and loading (ETL) to data analysis, visualization, and predictive modeling, offering significant insights and strategies for enhancing customer retention.
+
 In this complete CHURN ANALYSIS project, we will cover a wide range of insights which includes:
 1. ETL process in SQL Server
 2. Data Cleaning in SQL Server
@@ -46,8 +48,6 @@ In this complete CHURN ANALYSIS project, we will cover a wide range of insights 
 - Provided actionable insights for targeted marketing campaigns to reduce customer churn.
 - Improved ability to predict and understand customer behavior.
 - Developed a valuable tool for customer retention and business growth.
-
-This project demonstrates a complete workflow from data extraction, transformation, and loading (ETL) to data analysis, visualization, and predictive modeling, offering significant insights and strategies for enhancing customer retention.
 
 Credits: YouTube Pivotalstats #SajitSimon
 
