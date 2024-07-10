@@ -1,6 +1,6 @@
-**Excited to share Churn Analysis Project using SQL Server, Power BI, and Machine Learning.**
+**Excited to share Telecom Customer Churn Analysis Project using SQL Server, Power BI, and Machine Learning.**
 
-In this complete CHURN ANALYSIS project, we will cover a wide range of insights which includes:
+In this complete TELECOM CUSTOMER CHURN ANALYSIS project, we will cover a wide range of insights which includes:
 1. ETL process in SQL Server
 2. Data Cleaning in SQL Server
 3. Power BI Transformations
