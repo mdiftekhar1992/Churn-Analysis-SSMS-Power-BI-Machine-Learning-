@@ -156,3 +156,8 @@ In this complete CHURN ANALYSIS project, we will cover a wide range of insights 
 This project demonstrates a complete workflow from data extraction, transformation, and loading (ETL) to data analysis, visualization, and predictive modeling, offering significant insights and strategies for enhancing customer retention.
 
 Credits: YouTube Pivotalstats #SajitSimon
+
+<img width="602" alt="Churn Analysis 1" src="https://github.com/mdiftekhar1992/Churn-Analysis-SSMS-Power-BI-Machine-Learning-/assets/150526044/4491ce37-1d89-4331-9453-dc48ac5ab382">
+
+<img width="602" alt="Churn Analysis 2" src="https://github.com/mdiftekhar1992/Churn-Analysis-SSMS-Power-BI-Machine-Learning-/assets/150526044/d6855c32-90a6-4690-85b4-7965d4f8fed2">
+
